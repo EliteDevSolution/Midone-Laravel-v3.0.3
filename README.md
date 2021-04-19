@@ -1,4 +1,4 @@
-# Midone-Laravel-v3.0.3
+# Midone-Laravel-v3.0.3 [https://themeforest.net/item/midone-jquery-tailwindcss-html-admin-template/26366820]
 
 Midone HTML Admin Dashboard Template include Laravel
 
